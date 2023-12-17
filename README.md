@@ -3,7 +3,7 @@ Heya, I'm Uproxide (Or Kot), I Like Coding and Geometry Dash, I also make geode 
 
 
 ## Languages im Learning
-C#
-C++
-C
+C#,
+C++,
+C,
 Java
